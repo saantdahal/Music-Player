@@ -65,6 +65,6 @@ Contributions are welcome! If you encounter bugs or have suggestions, please [op
 - Shoutout to the Flutter community for their support and resources.
 ## Contact
 
-If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at rh676838@gmail.com.
+If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at dev@santoshdahal.info.np.
 
 
